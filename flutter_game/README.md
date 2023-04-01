@@ -1,16 +1,6 @@
-# flutter_game
+# Flutter Running Game
+• Desenvolvimento de um projeto de jogo utilizando Flutter e o pacote Flame;<br>
+• Desenvolvimento de ações e animação dos personagens;<br>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/49843350/229312877-a8550c0d-ee38-45ca-bc6f-3c5e6fb4921b.png" height="400"></img>
+<img src="https://user-images.githubusercontent.com/49843350/229313151-2113add4-12c0-4bc4-97cf-c55973641623.png" height="400"></img>
